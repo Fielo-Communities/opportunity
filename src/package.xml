@@ -4,5 +4,9 @@
         <members>Opportunity</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>FieloOpportunity</members>
+        <name>StaticResource</name>
+    </types>
     <version>41.0</version>
 </Package>
