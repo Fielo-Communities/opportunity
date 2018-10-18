@@ -4,5 +4,14 @@
         <members>Opportunity</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>FieloPLT__Transaction__c.Opportunity__c</members>
+        <members>Opportunity.Member__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>FieloOpportunity</members>
+        <name>StaticResource</name>
+    </types>
     <version>41.0</version>
 </Package>
